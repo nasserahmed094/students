@@ -8,7 +8,8 @@ The objectives of this exercise is for you to learn:
 
 - the difference between forking and cloning a repository,
 - stage, commit, and push your changes,
-- create a pull request to merge your changes to the upstream repository.
+- create a pull request to merge your changes to the upstream repository, and
+- how to deal with merge conflicts.
 
 ## Fork and clone the repository
 
@@ -26,12 +27,9 @@ Edit the `students.json` file in the `data` folder and add your name and details
 
 ```json
 { 
-  "name": "",
+  "name": "Your Name Here",
   "cohort": 2,
-  "socials": {
-    "github": "",
-    "linkedin": ""
-  }
+  "photo": "https://your-photo-here.com",
 }
 ```
 
